@@ -2,7 +2,7 @@ import React, { Component, Suspense } from 'react';
 import './App.css';
 
 import Page1 from './Components/Page1';
-// Part 1 - No Code Splitting 
+// Part 1 - No Code Splitting  
 // import Page2 from './Components/Page2';
 // import Page3 from './Components/Page3';
 

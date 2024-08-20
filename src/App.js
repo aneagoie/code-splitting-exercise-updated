@@ -9,7 +9,7 @@ import Page1 from './Components/Page1';
 // Part 3 - Cleaner Code Splitting
 // import AsyncComponent from './AsyncComponent';
 
-// Part 4 - React.lazy
+// Part 4 - React.lazy 
 const Page2Lazy = React.lazy(() => import('./Components/Page2'));
 const Page3Lazy = React.lazy(() => import('./Components/Page3'));
 

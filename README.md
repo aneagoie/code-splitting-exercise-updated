@@ -1,6 +1,6 @@
 # Learn About Code Splitting
 Code Splitting
-To run the project:
+To run the project: 
 
 1. Clone this repo
 2. Run `npm install`
